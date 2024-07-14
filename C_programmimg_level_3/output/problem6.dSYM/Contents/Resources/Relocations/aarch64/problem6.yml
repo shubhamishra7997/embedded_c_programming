@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shubhammishra/Desktop/Embedded/programming/C_programmimg_level_3/output/problem6'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C70, symSize: 0x6C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C70, symSize: 0x6C }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _reverse_numbers, symObjAddr: 0x6C, symBinAddr: 0x100003CDC, symSize: 0x64 }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: _reverse_number, symObjAddr: 0xD0, symBinAddr: 0x100003D40, symSize: 0x1D8 }
+...
