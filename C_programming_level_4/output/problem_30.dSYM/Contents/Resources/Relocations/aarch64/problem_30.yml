@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shubhammishra/Desktop/Embedded/programming/C_programming_level_4/output/problem_30'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _generate_primes_up_to, symObjAddr: 0x0, symBinAddr: 0x100003BF0, symSize: 0x11C }
+  - { offsetInCU: 0x54, offset: 0x54, size: 0x8, addend: 0x0, symName: _generate_primes_up_to, symObjAddr: 0x0, symBinAddr: 0x100003BF0, symSize: 0x11C }
+  - { offsetInCU: 0xDA, offset: 0xDA, size: 0x8, addend: 0x0, symName: _is_prime_large, symObjAddr: 0x11C, symBinAddr: 0x100003D0C, symSize: 0x11C }
+  - { offsetInCU: 0x13A, offset: 0x13A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x238, symBinAddr: 0x100003E28, symSize: 0x104 }
+...
